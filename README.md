@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **AMAZON**
 
-- 💬 Ask me about **C,PYTHON,CPP,DATA SCIENCE,CRYPTO**
+- 💬 Ask me about **C,PYTHON,DATA SCIENCE**
 
-- 📫 How to reach me **mg5657@srmist.edu.in**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gunasekhar madireddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunasekhar madireddi" height="30" width="40" /></a>
-<a href="https://fb.com/guna sekhar madireddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guna sekhar madireddi" height="30" width="40" /></a>
-<a href="https://instagram.com/guna_sekhar_madireddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guna_sekhar_madireddi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Sri Ram Ravinutala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sri Ram Ravinutala" height="30" width="40" /></a>
+<a href="https://fb.com/sriram_ravinutla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sriram_ravinutla" height="30" width="40" /></a>
+<a href="https://instagram.com/sriram_ravinutala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sriram_ravinutala" height="30" width="40" /></a>
 </p>
 
 
