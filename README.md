@@ -34,6 +34,6 @@
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriram3502&show_icons=true&locale=en" alt="sriram3502" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sriram3502&show_icons=true&locale=en" alt="sriram3502" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriram3502&" alt="sriram3502" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sriram3502&" alt="sriram3502" /></p>
